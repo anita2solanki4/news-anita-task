@@ -1,0 +1,16 @@
+.totalSearch {
+  font-weight: bold;
+  font-size: 16px;
+  color: #292929;
+  margin-bottom: 30px;
+}
+
+.mainWrapper {
+  padding: 25px 0;
+}
+
+.cardWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}

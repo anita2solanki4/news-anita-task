@@ -1,0 +1,52 @@
+.navContainer {
+  padding: 0px 120px;
+}
+
+.logoContainer {
+  border-bottom: 1px solid #e3e3e3;
+  padding-bottom: 20px;
+}
+
+.ctn2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.accountname {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  justify-content: center;
+}
+
+.logout {
+  display: flex;
+  background-color: white;
+  position: absolute;
+  margin-top: 60px;
+  height: 40px;
+  width: 100px;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 1px 2px 4px 1px rgba(0, 0, 0, 0.1);
+}
+
+.hide {
+  display: none;
+}
+
+.fullLine {
+  margin-top: 5px;
+  height: 0.5px;
+  background-color: #e3e3e3;
+}
+
+.logo {
+  height: 100px;
+  width: 250px;
+}
+
+.authorWrapper {
+  color: #01619b;
+}

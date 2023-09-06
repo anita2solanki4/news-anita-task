@@ -1,0 +1,23 @@
+.MainSection {
+  padding: 0px 120px;
+}
+
+.SectionTitle {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+  font-size: 26px;
+}
+
+.CardContainer {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.fullLine {
+  margin-top: 20px;
+  height: 0.5px;
+  background-color: lightgray;
+}

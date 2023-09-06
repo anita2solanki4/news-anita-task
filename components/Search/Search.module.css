@@ -1,0 +1,13 @@
+.searchWrapper {
+  padding: 15px;
+  border: 1px solid #ddd;
+  position: sticky;
+  top: 25px;
+}
+
+.searchTitle {
+  font-weight: bold;
+  font-size: 16px;
+  color: #292929;
+  margin-bottom: 20px;
+}
